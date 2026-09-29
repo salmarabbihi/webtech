@@ -6,7 +6,7 @@ Naam: (jouw naam)
 
 Welke elementen raakt elke selector? Eén zin per selector.
 
-- a. `header nav ul li a`:  testje
+- a. `header nav ul li a`:  
 - b. `article > p`: 
 - c. `.uren li:nth-child(3)`: 
 - d. `h2 ~ p`: 
